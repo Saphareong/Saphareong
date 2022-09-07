@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently being a loser
+- 🏫 I’m currently studying at FPT University
 - 🌱 I’m currently die trying with C#, java, PHP, LUA, ...
 - 👫 I’m looking to collaborate on <b>YOU</b>
 - 🤔 I’m looking for help with mental healthiness
